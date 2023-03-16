@@ -20,7 +20,7 @@ body {
 .logo-container {
   border:#fcb040 2px solid;
   border-radius: 500px;
-  padding: 6em 3em;
+  padding: 7em 3em;
 }
 
 .hide {
@@ -32,7 +32,7 @@ h1 {
   color: #20175d;
   font-family: "DM Serif Display", serif;
   font-size: 3rem;
-  margin-top: 0;
+  margin: 0;
 }
 
 button {
