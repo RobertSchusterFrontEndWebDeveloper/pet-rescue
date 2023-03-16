@@ -4,6 +4,7 @@ body {
   align-items: center;
   font-family: "Open Sans", sans-serif;
   color: #20175d;
+  flex-direction: column;
 }
 
 .container {
@@ -16,6 +17,12 @@ body {
   margin-top: 8em;
 }
 
+.logo-container {
+  border:#fcb040 2px solid;
+  border-radius: 500px;
+  padding: 6em 3em;
+}
+
 .hide {
   display: none;
 }
@@ -25,6 +32,7 @@ h1 {
   color: #20175d;
   font-family: "DM Serif Display", serif;
   font-size: 3rem;
+  margin-top: 0;
 }
 
 button {
@@ -34,7 +42,7 @@ button {
   margin-top: 1.5em;
   text-align: center;
   color: white;
-  background-color: #ed59d2;
+  background-color: #fcb040;
   font-family: sans-serif;
   font-weight: bold;
   outline: none;
@@ -75,4 +83,9 @@ button:active {
 
 .pup {
   width: 200px;
+}
+
+footer p {
+  font-size: .5em;
+  color: lightslategrey;
 }
