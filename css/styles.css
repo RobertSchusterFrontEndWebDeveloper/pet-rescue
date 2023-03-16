@@ -85,7 +85,8 @@ button:active {
   width: 200px;
 }
 
-footer p {
+footer a {
   font-size: .5em;
   color: lightslategrey;
+  padding-top: 3em;
 }
