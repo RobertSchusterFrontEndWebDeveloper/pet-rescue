@@ -5,3 +5,42 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #20175d;
 }
+
+.container {
+  width: 90%;
+  max-width: 700px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin-top: 8em;
+}
+
+.hide {
+  display: none;
+}
+
+.available {
+  width: 100%;
+}
+
+.all-pets {
+  padding: 0;
+  list-style: none;
+}
+
+.all-pets li {
+  padding: 1em;
+}
+
+.pet-name {
+  background-color: #20175d;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 4px;
+}
+
+.ruby {
+  width: 200px;
+}
