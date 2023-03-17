@@ -14,13 +14,13 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   text-align: center;
-  margin-top: 8em;
+  margin-top: 2em;
 }
 
 .logo-container {
   border:#fcb040 2px solid;
   border-radius: 500px;
-  padding: 7em 3em;
+  padding: 4em 3em;
 }
 
 .hide {
@@ -82,7 +82,7 @@ button:active {
 }
 
 .pup {
-  width: 200px;
+  width: 400px;
 }
 
 footer a {
