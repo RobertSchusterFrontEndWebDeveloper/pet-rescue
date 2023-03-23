@@ -50,6 +50,7 @@ button {
   border: none;
   text-transform: uppercase;
   max-width: 300px;
+  margin-bottom: 4em;
 }
 
 button:hover {
