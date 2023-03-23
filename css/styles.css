@@ -20,7 +20,7 @@ body {
 .logo-container {
   border:#fcb040 2px solid;
   border-radius: 16em;
-  padding: 6.4em 2em;
+  padding: 4em 3em;
 }
 
 .hide {
@@ -40,6 +40,7 @@ button {
   border-radius: 40px;
   padding: 20px 40px;
   margin-top: 1.5em;
+  margin-bottom: 4em;
   text-align: center;
   color: white;
   background-color: #fcb040;
